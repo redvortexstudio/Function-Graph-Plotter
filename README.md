@@ -1,4 +1,4 @@
-# Function-Graph-Plotter
+# Plotverse: Mathematical Function Graph Plotter
 
 An interactive web app that allows users to plot mathematical functions in real-time. Built using **Java Spring Boot** for the backend and **HTML5 + JavaScript** for the frontend. This app enables users to input mathematical functions and visualize them graphically on a canvas.
 
